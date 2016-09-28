@@ -1,6 +1,6 @@
 # Week 4b (9/28) Notes - Project Plan Discussions & Modules
 ## Topics Covered: See: week5a
-* Partials [view] (in-class exercise)
+* Partials [view]
 * Middleware Review
 * Express Router
 * Modules - In-class code
